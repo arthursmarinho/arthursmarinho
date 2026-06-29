@@ -64,7 +64,7 @@ Tenho experiência prática participando desde o desenho de interfaces responsiv
 * **Destaques:** Autenticação JWT, tabelas dinâmicas, relatórios em tempo real e exportação de dados para planilhas.
 * 🔗 [Acessar Repositório](https://github.com/arthursmarinho/Talents-Front) | [Ver Deploy Online](https://talents-front.vercel.app/login)
 
-### 💻 Nome do Segundo Projeto
+### 💻 Frendz
 > O Frendz é uma rede social que conta com autenticação de usuários, permitindo que eles visualizem seus próprios perfis, publiquem postagens em texto e naveguem de forma contínua por meio de uma interface responsiva em dispositivos móveis.
 * **Tecnologias:** Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS.
 * **Destaques:** Componentização avançada, tratamento seguro de erros de API e consumo de dados aninhados.
