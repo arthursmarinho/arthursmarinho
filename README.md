@@ -17,7 +17,6 @@
 
 <br>
 
-<!-- SOBRE MIM -->
 ## 🧑‍💻 Sobre Mim
 
 Olá! Sou desenvolvedor Full Stack focado na criação de aplicações web modernas, seguras e escaláveis, além de atuar na automação de processos de negócios e criação de portais corporativos dentro da plataforma **ServiceNow**. 
@@ -26,7 +25,6 @@ Tenho experiência prática participando desde o desenho de interfaces responsiv
 
 ---
 
-<!-- TECNOLOGIAS (Sinta-se livre para tirar ou adicionar o que quiser) -->
 ## 🛠️ Competências Técnicas
 
 <table>
@@ -58,30 +56,20 @@ Tenho experiência prática participando desde o desenho de interfaces responsiv
 
 ---
 
-<!-- DIRETRIZ DE PROJETOS -->
 ## 🚀 Projetos em Destaque
 
-<!-- PROJETO 1 -->
 ### 📈 Talents
 > O projeto Talents oferece uma plataforma acessível e responsiva tanto para empresas quanto para candidatos. As empresas podem criar e gerenciar vagas de emprego, enquanto os candidatos podem se cadastrar, navegar pelas oportunidades e enviar seus currículos em formato PDF. O sistema conta com login por e-mail, recuperação de senha e gerenciamento de candidaturas para recrutadores.
 * **Tecnologias:** Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS.
 * **Destaques:** Autenticação JWT, tabelas dinâmicas, relatórios em tempo real e exportação de dados para planilhas.
 * 🔗 [Acessar Repositório](https://github.com/arthursmarinho/Talents-Front) | [Ver Deploy Online](https://talents-front.vercel.app/login)
 
-<!-- PROJETO 2 -->
 ### 💻 Nome do Segundo Projeto
 > O Frendz é uma rede social que conta com autenticação de usuários, permitindo que eles visualizem seus próprios perfis, publiquem postagens em texto e naveguem de forma contínua por meio de uma interface responsiva em dispositivos móveis.
-* **Tecnologias:** React, TypeScript, ServiceNow API Integration.
+* **Tecnologias:** Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS.
 * **Destaques:** Componentização avançada, tratamento seguro de erros de API e consumo de dados aninhados.
 * 🔗 [https://github.com/arthursmarinho/Frendz-Front](https://frendz-front.vercel.app/signin)
 
 ---
 
-<!-- ESTATÍSTICAS DO GITHUB (Opcional, mas dá um tom bem dev corporativo) -->
-<div align="center">
-  ## 📊 Estatísticas
-  <br>
-  <!-- Troque "SEU_USUARIO_GITHUB" pelo seu username real do GitHub nos dois links abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arthursmarinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursmarinho&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" height="180em" />
-</div>
+
